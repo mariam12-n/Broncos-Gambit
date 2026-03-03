@@ -15,3 +15,9 @@ mariam
 christian
 
 Our Team Name is CFrenzy
+
+## How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/cbmusonda/Broncos-Gambit.git
